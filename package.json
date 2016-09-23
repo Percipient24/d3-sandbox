@@ -4,7 +4,7 @@
   "description": "A place for playing with D3.",
   "main": "index.js",
   "scripts": {
-    "start": "node ./node_modules/http-server/bin/http-server ./public"
+    "start": "node ./node_modules/http-server/bin/http-server ./"
   },
   "repository": {
     "type": "git",
