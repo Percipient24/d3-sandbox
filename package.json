@@ -1,0 +1,32 @@
+{
+  "name": "d3-sandbox",
+  "version": "1.0.0",
+  "description": "A place for playing with D3.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./node_modules/http-server/bin/http-server ./public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Percipient24/d3-sandbox.git"
+  },
+  "keywords": [
+    "D3",
+    "Data",
+    "Visualization",
+    "Rough"
+  ],
+  "author": "Joe Pietruch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Percipient24/d3-sandbox/issues"
+  },
+  "homepage": "https://github.com/Percipient24/d3-sandbox#readme",
+  "dependencies": {
+    "d3": "^4.2.6",
+    "node-dev-server": "0.0.1"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
