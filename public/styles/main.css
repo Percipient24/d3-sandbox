@@ -7,4 +7,6 @@
   color: red;
 }
 
+p {color: blue; text-decoration: underline;}
+
 p { font-family: 'Roboto Slab', serif; }
